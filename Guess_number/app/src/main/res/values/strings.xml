@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Guess_number</string>
+    <string name="Reset">Reset</string>
+    <string name="GUESS">GUESS</string>
+    <string name="Congrets">Congrets</string>
+    <string name="You_r_so_big">you are so big</string>
+    <string name="You_guess_too_small">you guess too small</string>
+    <string name="Try_again">try again</string>
 </resources>

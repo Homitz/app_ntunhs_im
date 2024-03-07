@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">終極密碼</string>
+    <string name="Congrets">恭喜答對!</string>
+    <string name="GUESS">再猜一次</string>
+    <string name="You_r_so_big">你猜太大了!</string>
+    <string name="You_guess_too_small">你猜太小了!</string>
+    <string name="Try_again">再試一次</string>
+    <string name="Reset">重置</string>
+</resources>
