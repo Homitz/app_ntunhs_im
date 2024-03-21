@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HomeWork03</string>
+    <string name="Play_choose_a_button">Play choose a button</string>
+    <string name="Paper">Paper</string>
+    <string name="Rock">Rock</string>
+    <string name="Scissors">Scissors</string>
+    <string name="Wait_player">Wait player</string>
+    <string name="Player">Player</string>
+    <string name="Computer">Computer</string>
+    <string name="rock_paper_scissors">Rock paper scissors</string>
+    <string name="win">You win!!</string>
+    <string name="lose">You lose!!</string>
+    <string name="draw">Draw!!</string>
+    
+</resources>
