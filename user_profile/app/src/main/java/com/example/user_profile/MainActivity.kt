@@ -12,6 +12,9 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        appltDate.setOnclickListner{
+
+        }
         val datePicker = findViewById<DatePicker>(R.id.date1)
 
         // 设置DatePicker的默认日期为当前日期
